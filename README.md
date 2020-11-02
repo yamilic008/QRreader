@@ -1,4 +1,4 @@
-# [![Flutter logo][]][flutter.dev]
+<img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" alt="Flutter logo" style="max-width:100%;">
 
 [![Build Status - Cirrus][]][Build status]
 [![Gitter Channel][]][Gitter badge]
